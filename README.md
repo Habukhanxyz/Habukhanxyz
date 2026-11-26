@@ -42,8 +42,8 @@
 
 ### 🛠️ Featured Security Projects
 
-* 🚀 **[MRR0307](https://github.com/Habukhanxyz/mrr0307)** — AI-powered bug bounty hunting engine with end-to-end recon, automated probing, validation gates, and reporting for HackerOne & Bugcrowd.
-* 🛡️ **[VXNQR](https://github.com/Habukhanxyz/mrr0307)** — Python AST static analysis scanner detecting dangerous sinks, unquoted shell executions, and insecure deserialization.
+* 🚀 **[MRR0307](https://github.com/abokisub/mrr0307)** — AI-powered bug bounty hunting engine with end-to-end recon, automated probing, validation gates, and reporting for HackerOne & Bugcrowd.
+* 🛡️ **[VXNQR](https://github.com/abokisub/mrr0307)** — Python AST static analysis scanner detecting dangerous sinks, unquoted shell executions, and insecure deserialization.
 
 ---
 
