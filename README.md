@@ -10,16 +10,16 @@
 ```
 
 # ⚡ Habukhan ⚡
-### Software Engineer · Mobile App Developer · Offensive Security Researcher
+### Software Engineer · Mobile App Developer · Security Researcher
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-Researcher-000000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Hunter-F96854?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
 [![Mobile Dev](https://img.shields.io/badge/Mobile-Flutter%20%7C%20Android%20%7C%20iOS-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Backend](https://img.shields.io/badge/Backend-Python%20%7C%20Node.js%20%7C%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Backend](https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI%20%7C%20Node-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![OS](https://img.shields.io/badge/OS-Ubuntu%20%7C%20WSL2-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=680&lines=Software+Engineer+%26+Mobile+App+Architect;Building+production+apps+with+Flutter%2C+Android+%26+FastAPI;Offensive+Security+Researcher+%26+Bug+Hunter;Build+it+clean.+Break+it+first.+Secure+it+forever." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+Mobile+Architect;Flutter+%2B+Android+%2B+Python+FastAPI;Offensive+Security+%26+SAST+Tooling;Build+clean.+Break+first.+Secure+forever." alt="Typing SVG" />
 </p>
 
 </div>
@@ -28,26 +28,29 @@
 
 ### 💻 `whoami`
 
-```bash
+```json
 [habukhan@sec-ops ~]$ cat identity.json
 {
   "handle": "Habukhan",
-  "role": "Software Engineer & Mobile Developer × Offensive Security Researcher",
-  "competencies": {
-    "mobile_development": [
-      "Flutter & Dart (Cross-Platform iOS/Android)",
+  "role": [
+    "Software Engineer & Mobile Developer",
+    "Offensive Security Researcher"
+  ],
+  "focus": {
+    "mobile": [
+      "Flutter & Dart (iOS / Android)",
       "Native Android Architecture & SDK",
-      "Mobile App Security & Reverse Engineering (MobSF / Frida)"
+      "Mobile App Security & Reverse Engineering"
     ],
-    "software_engineering": [
-      "Scalable Backend Services (Python, FastAPI, Node.js)",
-      "Clean Architecture & Design Patterns",
-      "API Engineering (REST, GraphQL, WebSockets)"
+    "engineering": [
+      "High-Performance Python & FastAPI",
+      "Node.js, TypeScript & Modern Web",
+      "Scalable REST & GraphQL APIs"
     ],
-    "offensive_security": [
+    "offensive_sec": [
       "Web & API Penetration Testing",
-      "Automated Attack Surface Reconnaissance",
-      "Python AST Static Analysis (SAST Tooling)"
+      "Attack Surface Reconnaissance",
+      "Python AST SAST Tooling"
     ]
   },
   "platforms": ["HackerOne", "Bugcrowd"],
@@ -66,10 +69,10 @@
 <br/>
 
 ```text
-[+] Mobile Engineering:  Flutter, Dart, Android SDK, iOS, State Management, Offline-First Apps
-[+] Software & Backend:  Python (FastAPI, Django), Node.js, TypeScript, REST & GraphQL APIs, WebSockets
-[+] Cloud & Data:        PostgreSQL, MongoDB, Firebase, Redis, Docker, CI/CD, Linux/WSL2
-[+] Security & Tools:    Burp Suite, MobSF, Frida, APK Tooling, Subfinder, Nuclei, Python AST SAST
+[+] Mobile:   Flutter, Dart, Android SDK, iOS, Bloc/Riverpod, Offline-First
+[+] Backend:  Python (FastAPI, Django), Node.js, TypeScript, REST, GraphQL
+[+] Cloud:    PostgreSQL, MongoDB, Firebase, Redis, Docker, Linux/WSL2
+[+] Security: Burp Suite, MobSF, Frida, APK Tooling, Nuclei, AST SAST
 ```
 
 ---
