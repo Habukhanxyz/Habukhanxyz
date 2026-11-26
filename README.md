@@ -1,27 +1,3 @@
-Awesome! Since your GitHub username is **`Habukhanxyz`**, your special profile repo must be named:
-
-👉 **`Habukhanxyz/Habukhanxyz`**
-
-Whenever you push a `README.md` to that repository, it immediately transforms your page at [github.com/Habukhanxyz](https://github.com/Habukhanxyz) into your custom hacker profile!
-
----
-
-### Step 1: Create the Profile Repository
-
-1. Open your browser and go to: **[github.com/new](https://github.com/new)**
-2. In **Repository name**, type: **`Habukhanxyz`**
-   *(GitHub will show a green message: "✨ You found a secret! Habukhanxyz/Habukhanxyz is a special repository that you can use to add a README.md to your GitHub profile.")*
-3. Make sure **Public** is selected.
-4. Check **"Add a README file"**.
-5. Click **Create repository**.
-
----
-
-### Step 2: Paste This Complete Profile Code
-
-Click the edit (pencil ✏️) icon on the `README.md` and replace everything with this tailored template:
-
-```markdown
 <div align="center">
 
 ```ascii
@@ -103,7 +79,3 @@ Click the edit (pencil ✏️) icon on the `README.md` and replace everything wi
 <div align="center">
   <sub>⚡ Autonomous Recon · Defensive Audits · Safe Harbor Authorized Testing Only ⚡</sub>
 </div>
-```
-
----
-
